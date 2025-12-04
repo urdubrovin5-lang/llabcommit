@@ -10,16 +10,23 @@ void main() {
 	int i;
 	printf("brawl stars");
 	int A;
-
+	printf("dota2");
 	printf("¬ведите число n : ");
 	scanf_s("%d", &n);
 
 	printf("¬ведите число A : ");
 	scanf_s("%d", &A);
 
+
+
+
+
 	printf("commit1");
 	i = 1;
 	int cnt;
+
+
+	printf("cs");
 	cnt = 0;
 	printf("clash royale");
 	do {
