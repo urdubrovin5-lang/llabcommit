@@ -8,6 +8,7 @@ void main() {
 	printf("gitignore");
 	int n;
 	int i;
+	printf("brawl stars");
 	int A;
 
 	printf("¬ведите число n : ");
@@ -15,11 +16,12 @@ void main() {
 
 	printf("¬ведите число A : ");
 	scanf_s("%d", &A);
+
 	printf("commit1");
 	i = 1;
 	int cnt;
 	cnt = 0;
-
+	printf("clash royale");
 	do {
 		if (i % A == 0) {
 			printf("%d ", i);
