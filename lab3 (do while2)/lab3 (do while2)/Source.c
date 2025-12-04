@@ -5,7 +5,7 @@ void main() {
 
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-
+	printf("gitignore");
 	int n;
 	int i;
 	int A;
@@ -31,7 +31,8 @@ void main() {
 		}
 
 	} while (cnt < n);
-	printf("изменение")
+	printf("изменение");
+	printf("изменение2");
 }
 
 
